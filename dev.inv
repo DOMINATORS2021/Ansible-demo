@@ -1,0 +1,2 @@
+[webservers]
+192.168.150.141 ansible_user=mouradjomaa
